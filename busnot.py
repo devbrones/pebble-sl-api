@@ -82,8 +82,7 @@ def send_ProviderLocal(obj, shorthand=True):
         print(len(obj))
         for i in range(0,len(obj)):
             print(obj)
-            dat=str(str(obj[i][0]) + ": " + str(obj[i][1]) + " | " + str(obj[i][2])+"
-                    ")
+            dat=str(str(obj[i][0]) + ": " + str(obj[i][1]) + " | " + str(obj[i][2])+"")
             print(dat)
             dat1.append(dat)
         for j in dat1:
