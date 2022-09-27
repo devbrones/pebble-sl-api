@@ -1,0 +1,9 @@
+{
+  "id": "example-pin-generic-1",
+  "time": "2023-03-19T18:00:00Z",
+  "layout": {
+    "type": "genericPin",
+    "title": "News at 6 o'clock",
+    "tinyIcon": "system://images/NOTIFICATION_FLAG"
+  }
+}
